@@ -34,7 +34,7 @@
         "webmozart/assert": "^1.9"
     },
     "replace": {
-        "sylius/mailer": "self.version"
+        "mstodulski/sylius-mailer": "8.*"
     },
     "require-dev": {
         "matthiasnoback/symfony-dependency-injection-test": "^4.2",
