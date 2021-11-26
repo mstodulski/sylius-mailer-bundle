@@ -1,5 +1,5 @@
 {
-    "name": "sylius/mailer",
+    "name": "mstodulski/sylius-mailer",
     "type": "library",
     "description": "Mails management and sending abstraction.",
     "keywords": [
